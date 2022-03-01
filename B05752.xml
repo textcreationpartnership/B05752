@@ -1,0 +1,182 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To his highness Protector of the Common-wealth of England, Scotland, and Ireland, and the dominions thereunto belonging. The humble address of Sir John Scot, of Scottistarvet.</title>
+            <author>Scott, John, Sir, 1585-1670.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05752</idno>
+            <idno type="STC">Wing S2076A</idno>
+            <idno type="STC">ESTC R183622</idno>
+            <idno type="EEBO-CITATION">52615095</idno>
+            <idno type="OCLC">ocm 52615095</idno>
+            <idno type="VID">176120</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05752)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176120)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2762:63)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To his highness Protector of the Common-wealth of England, Scotland, and Ireland, and the dominions thereunto belonging. The humble address of Sir John Scot, of Scottistarvet.</title>
+                  <author>Scott, John, Sir, 1585-1670.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1650-1659]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Date range of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:176120:1"/>
+            <pb facs="tcp:176120:1" rendition="simple:additions"/>
+            <head>To His Highneſs PROTECTOR OF THE COMMON-WEALTH of <hi>England, Scotland, and Ireland,</hi> and the Dominions thereunto belonging.</head>
+            <head type="sub">The humble Addreſs of Sir <hi>JOHN SCOT,</hi> of <hi>Scottiſtarvet.</hi>
+            </head>
+            <opener>
+               <salute>May it pleaſe your Highneſs,</salute>
+            </opener>
+            <p>THe free acceſs which you are pleaſed to give to all ſtrangers, and the ſpeedy ſatisfaction that you afford their grievances, emboldens me to preſent theſe papers to your Highneſs. My Lord I had the poſſeſſi<g ref="char:EOLhyphen"/>on of an Office in <hi>Edenborough</hi> called the Di<g ref="char:EOLhyphen"/>rectorie of the Chancery granted to my An<g ref="char:EOLhyphen"/>ceſtors, and after them to me and my Son for our lives under the great Seal of <hi>Scotland.</hi> The grounds and reaſons of my being put out, I do here humbly ſubmit to your High<g ref="char:EOLhyphen"/>neſſe; which I have the rather done, partly that I might conceal no occaſion for your Highneſs to ſhew your juſtice, in deciding
+<pb n="1" facs="tcp:176120:2"/>the cauſe of the innocent, partly out of an ambition to be employ'd among the reſt of my Countrymen in your Highneſs ſervice, counting it the chiefeſt happineſs of me and my family, that I have ſome title and claim to ſo great an honour.</p>
+            <p>
+               <hi>In the fourth clauſe of the Declaration of the Parliament of the Common-wealth of</hi> Eng<g ref="char:EOLhyphen"/>land, <hi>concerning the ſettlement of</hi> Scotland, <hi>are contained theſe words,</hi>
+            </p>
+            <p>Fourthly, the Parliament do declare, that all ſuch perſons of the Scottiſh Nation as are not comprehen<g ref="char:EOLhyphen"/>ded in the former qualifications, but have kept themſelves free from the guilt of thoſe things which have compelled this warre, and ſhall now upon the diſcovery of their own true intereſt be diſpoſed to concur with, and promote the ends formerly and now declared by the Parliament, ſhall be taken into the protection of the Parliament, and ſhall enjoy their liberties and eſtates, as other the freeborn peo<g ref="char:EOLhyphen"/>ple of the Commonwealth of <hi>England.</hi>
+            </p>
+            <p>After this came down certain Commiſſioners, who continued at <hi>Dalkeith,</hi> and publiſht a Proclamation the laſt day of <hi>January</hi> 1651. wherein they did de<g ref="char:EOLhyphen"/>clare their power and intention, given them in theſe words, <hi>We ſhall by vertue of the power given unto us by the Parliament of the Commonwealth of</hi> England <hi>forth<g ref="char:EOLhyphen"/>with appoint and authorize perſons for adminiſtration of juſtice unto the people of</hi> Scotland, <hi>who are to be conti<g ref="char:EOLhyphen"/>nued for ſome ſhort time, untill the Judicatories and Courts
+<pb n="3" facs="tcp:176120:2"/>of Juſtice may be in a more laſting and ſolemn way eſta<g ref="char:EOLhyphen"/>bliſhed.</hi>
+            </p>
+            <p>Upon this act the Judges of the Seſſion appointed <hi>Alexander Jeffray</hi> to be in the place of Director for the Chancery, and becauſe they knew him to be ig<g ref="char:EOLhyphen"/>norant in the managing the affairs of that Office, they put under him two of the Directors ſervants, giving them a ſallary of fifty pounds <hi>per Annum.</hi>
+            </p>
+            <p>Your Highneſs petitioner then finding that he had got wrong, not ſo much from the large extent of the ſence of the ſaid Proclamation, as from a miſ-inter<g ref="char:EOLhyphen"/>pretation of the words, and the ſince appeaſed ſeve<g ref="char:EOLhyphen"/>rity of thoſe times, made an addreſs to your High<g ref="char:EOLhyphen"/>neſs in this following petition.</p>
+            <div type="part">
+               <head>To his Highnes, &amp;c.</head>
+               <head type="sub">The humble Petition, &amp;c.</head>
+               <opener>Sheweth,</opener>
+               <p>THat whereas it pleaſed your Highneſſe on the 24. of <hi>April</hi> 1655. to refer my Petition craving to be reſtored to his Office of Directour of Chancery, in which he was eſtabliſhed by a gift under the great Seal for his life time, and from whence he was diſplaced without any cauſe, to the de<g ref="char:EOLhyphen"/>termination of ſix of your Highneſs Council, or any three of them; yet they never took tryal thereof in reſpect of other great affairs, which hindred them from hearing the ſame.</p>
+               <p>May it therefore pleaſe your Highneſſe to remit the tryal thereof either to your Council in <hi>Scotland</hi> or to the Judges of the Seſſions to whom it doth properly appertain to judge in ſuch affairs; to the end that upon their report to your Highneſs, You may declare your farther pleaſure, as to the re-eſtabliſhing your Petitioner in his juſt employment wherein he hopes to do your Highneſſe and the Commonwealth acceptable ſervice.</p>
+               <p>Upon which your Highneſs referred the matter to
+<pb n="4" facs="tcp:176120:3"/>the Judges of the Seſſions that they upon hearing thereof might certifie the particulars to your High<g ref="char:EOLhyphen"/>neſs, with their opinion concerning the ſame: if they thought fitting.</p>
+               <p>This being ſent home to <hi>Scotland</hi> and delivered by him to the Judges, together with his reaſons for his reſtauration, they refuſed to give him any anſwer thereunto, but told him that they would write an anſwer to his Highneſs themſelves, which they for<g ref="char:EOLhyphen"/>bad their Clerks to ſhew me; So that your petitioner was forced to make a journey to <hi>London,</hi> where he found it in the Maſter of the Requeſt's hands, to this effect:</p>
+               <p>That they <hi>did humbly Certifie to your Highneſs, that upon the Declaration of the Commiſſioners of the Parlia<g ref="char:EOLhyphen"/>ment of the Commonwealth of</hi> England <hi>for ordering and managing afiairs in</hi> Scotland, <hi>declaring all power, juriſ<g ref="char:EOLhyphen"/>diction and authority in</hi> Scotland <hi>not derived from the Parliament of the Commonwealth of</hi> England <hi>void, ac<g ref="char:EOLhyphen"/>cording to the power committed to them and the truſt re<g ref="char:EOLhyphen"/>poſed in them for filling all places of truſt with fit and qualififi'd perſons, they did by their Order the</hi> 16 <hi>of</hi> May, 164<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>nominate and authoriſe</hi> Alexander Jeffray <hi>a perſon of known integrity to be Directour of the Chan<g ref="char:EOLhyphen"/>cery, &amp;c.</hi>
+               </p>
+               <p>Their Order was to this effect.</p>
+               <p>
+                  <hi>The Commiſſioners for Adminiſtration of juſtice to the people of Scotland being carefull according to the power committed to them, and the truſt repoſed in them, that all</hi> places of Truſt ſubſervient to the Court of Juſtice <hi>be filled with fit and qualified perſons ſo as juſtice may be done with moſt eaſe and ſpeed, have nominated and au<g ref="char:EOLhyphen"/>thorized</hi> Richard Ward <hi>Clerk of the Bills,</hi> Alexander Jeffray <hi>Director of the Chancery, &amp;c.</hi>
+               </p>
+               <pb n="5" facs="tcp:176120:3"/>
+               <p>Now, may it pleaſe your Highneſs, I ſhould have ſate down contented, had their power extended to require my obedience. But, my Lord, my employ<g ref="char:EOLhyphen"/>ment not being within the verge of their juriſdicti<g ref="char:EOLhyphen"/>on, I implore leave from your Highneſs to complain if I am wronged by thoſe who never had any power granted them to doe it. Which I am the more bold to doe, upon the ſcore of theſe Reaſons, which I here ſubmit to your Highneſs peruſall, wherein I ſhall prove that the <hi>Office of Chancery is no waies ſubſervient to the Court of Juſtice,</hi> as the Judges are pleaſed to alledge.</p>
+            </div>
+            <div type="part">
+               <head>Reaſons why the place of Chancery is no ways ſubſervient to the Court of Juſtice, as is alledged by the Judges in the Report to his Highneſſe.</head>
+               <p n="1">1. NO Officer of eſtate, who had any Vote in Parlia<g ref="char:EOLhyphen"/>ment, can be thought ſubſervient to the Court of Seſſion, ſeeing the Judges themſelves were ever hitherto ſilenced from Voting therein. But ſo it is, that the Directors divers ages had voice in Parliament; as namely, <hi>Robert Colvill</hi> of <hi>Hilton,</hi> in K. <hi>Ja.</hi> 3. time ſate in the Parliament holden <hi>Decemb.</hi> 2. 1482. and in the Parliament holden <hi>June</hi> 29. 1487. <hi>Ergo</hi> it cannot be ſubſervient to the Colledge of Juſtice, which endured till the time that the Directors became Lords or Clerks of the Seſſion; at which time they were eſteemed Mem<g ref="char:EOLhyphen"/>bers, as being Judges or Clerks, but not as Directors of the Chancery.</p>
+               <p n="2">2. The Court of Juſtice not being inſtituted till the time of King <hi>James</hi> the 5th. and the Chancery being brought in by King <hi>James</hi> the firſt, from <hi>England,</hi> as teſtifieth <hi>Craig</hi> in his ſecond book, <hi>De feudis;</hi> there can be no contingency betwixt them, nor the one thought any way to be ſubſervient to the other, except ſome mention had been made in the ſaid inſtitution, which is not, but only of ordinary Clerks, Advocates, writers to the Signer and Maiſſers.</p>
+               <pb n="6" facs="tcp:176120:4"/>
+               <p n="3">3. The Directors in all Infeofments under the great Seal, theſe 100. years and above, have been always ſtyled Counſellors, and ſo cannot be thought ſubſervient to the Court of Juſtice in any manner of way; by the 40th. Act of the inſtitution the Colledge of Juſtice are called thoſe of his great Counſel, and ſo they were ſuperiours to the Seſſioners or Judges; and in our time they raiſed the Seſſion in time of a peſtilence.</p>
+               <p n="4">4. If the place of the Directory of the Chancery had in any ways been ſubſervient to the Court of Juſtice, then it behoved the Director as a member thereof, to have contributed ſome money to the out reaching of the Chancellers Troup, in <hi>Anno</hi> 1644. which he no wayes yielded to do; but refuſed in the face of the Seſſion, as will appear by the Raters teſtification hereof, which (if need be) ſhall be produced, declaring that he was not in that Catalogue at all.</p>
+               <p n="5">5. At the Inſtitution of that Court, the half of the Judges were Kirkmen, the other half ſecular Gentlemen, learned in the Laws; whereas the Directors of the Chancery then and long before, were honourable Barrons, Knights, and the Kings Counſellors; and at that ſame time the Colledge was inſtituted, the Director was choſen one, <hi>viz. James Colvill</hi> of <hi>Eiſter Weymes,</hi> who albeit he was Director, yet is not ſo ſtyled in the book of that days <hi>ſederunt;</hi> that the places might not be confounded nor though abſolutely neceſſary that every Director ſhould be a Judget albeit then for his worth and learning he was choſen one; and, that the Directors continued ſtill Judges, both before and after the inſtitution, for 60. years together, to the effect that they might inform the reſt, when queſtions came to be agitated among them concerning that Office, as dayly occurreth in that Court, yet that will not infer any ſubſerviency of the Chancery to the Court of Juſtice, eſpecially ſeeing there hath been ſundry Directors who had no place nor acceſs to that Court, <hi>viz. Mungo Tennent</hi> Foſter-brother to Queen <hi>Mary,</hi> made Director by her at <hi>Orleance,</hi> 1560. Mr. <hi>George Buchanan,</hi> made Director in the year 1570. <hi>James Hamilton</hi> of <hi>Stenhous,</hi> and Sir <hi>John Scot,</hi> at his firſt entry to the place, untill he was made a Seſſioner.</p>
+               <p n="6">6. A clear difference may be found in that, that the Directors have their gift under the great Seal, the Judges only have their
+<pb n="7" facs="tcp:176120:4"/>place by a Letter of the King's; the firſt unrevocable for their life, the other always removeable at the Princes will, as was cleared to King <hi>Charls</hi> at his entry to the Crown; which he then practiſed, by changing a number of the ſaid Judges, and placing others in their room.</p>
+               <p n="7">7. If the office of the Chancery were any ways ſubſervient to the Colledge of Juſtice, then might the Senators thereof make ſuch Rules, Statutes, and Ordinances therein, as they ſhould think expedient, which the King and his Succeſſors is obliged to ratifie and approve by the 43. Act of the inſtitution; but that neither they nor the Directors themſelves, may alter any form of the Chancery, is proved by the 24th. Act of K. <hi>Ja,</hi> the fourth, commanding the forms of the Chancery to be punctually kept, and no ſtyles thereof to be altered; which Act is 46. years paſt before the Court of the Colledge of Juſtice wus inſtituted.</p>
+               <p n="8">8. And whereas it may be alledged that in ſo farr as the Judges diſcharged Briefs, and paſſed Commiſſions, uſually by ſome of their number, that theſe Acts ſeeme to make that. Office ſubſervient to that Court: It is anſwered, that that will not follow, for the ſaid Judges ordinarily advocate cauſes from Sheriffs and Lords of Regality, who notwithſtanding are Soveraign in their own kinds and no ways ſubject to the ſaid Judges or Court of Seſſion.</p>
+               <p n="9">9. The Judges appears to have had no ſuch power given them to put in another in the Directors place, in regard of the fourth Act of Parliaments declaration, dated the 28 of <hi>October</hi> before the Commiſſioners comming for <hi>Scotland,</hi> which Act makes him and all others who carried themſelves ſoberly, who were not guilty of any thing that moved the War, free of dan<g ref="char:EOLhyphen"/>ger, and capable to enjoy their liberties and eſtates (whereof no doubt but any Office is a part) and his ſubſequent act of the Counſell freeing him from his fine, declares him capable of all favour due to all the reſt of the good Subjects of <hi>England,</hi> being found thereby by his Highneſs to have done good ſervice to the Communwealth.</p>
+               <p n="10">10. The independency of that place of the Chancery may be eaſily perceived by <hi>K. Ja.</hi> his 4 act parl. 20. wherein the Director and his Deputes are diſcharged to give out Breefs to excommu<g ref="char:EOLhyphen"/>nicate perſons.</p>
+               <pb n="8" facs="tcp:176120:5"/>
+               <p n="11">11. If the Office of the Directory of the Chancery had any contingency with that of the Court of Juſtice, then would they have been contracters with the town of <hi>Edenburgh</hi> in the con<g ref="char:EOLhyphen"/>tract of mortification for maintenance of a Regent of huma<g ref="char:EOLhyphen"/>nity in their Colledge, and had contributed ſome part of the ſtock for that uſe, and would have had voice in his election when the place was vacant, but ſo it is, that only the Judges advocates, and writers have voice there not the Director all at. <hi>Ergo.</hi>
+               </p>
+               <p n="12">12. That the Directors have been always diſtinguiſhed from the Judges, may appear by that of <hi>K. Ja.</hi> ſome 40. years ago, who appointed all Members of the Colledge of Juſtice, ſeveral habits as to the extraordinary black velvet gowns, to the Judges pur<g ref="char:EOLhyphen"/>ple gowns, to the Advocates, Writers, Maiſſers of ſeveral forms of habit; but the Directors were never tied to any habit.</p>
+               <p n="14">14. Albeit it may appear that the ſervants of that Office, as being writers, may be thought to depend upon the Seſſion; yet the diſtinction of him from his ſervants, is evident from the common ſtyle of all Writs, ſought to be ſent from the Judges to him, whereby the writer craves a Warrant to the Director, and Clerks of the Chancery; ſo albeit they had power to put out his ſervants as Clerks, but never the Director himſelf as they have done.</p>
+               <p n="14">14. To evidence who are condiſcended upon to be members of the Colledge of Juſtice, is fully expreſſed in the 216. Act of the 14. Parliament of K. <hi>Ja.</hi> 6. wherein is diſcharged the buy<g ref="char:EOLhyphen"/>ing of any Lands and Poſſeſſions, depending in plea by the Lords of Seſſion, ordinary or extraordinary Advocates, Clerks, Writers, and their ſervants; wherein is no mention of the Director of the Chancery, which was reputed ſo conſiderable an Office, that it would not have been otherwiſe pretermitted, his Office being of that reſpect that he was imployed as a privy Counſellor, as is before ſaid.</p>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:176120:5"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
